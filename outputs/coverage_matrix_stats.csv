@@ -1,0 +1,4 @@
+radius_m,radius_label,net_coverable_zones,euc_coverable_zones,net_mean_candidates,euc_mean_candidates,discrepancy_zones
+2000,2 km,0,1,0.0,0.0,1
+5000,5 km,1,1,0.0,0.01,0
+10000,10 km,4,5,0.01,0.03,1

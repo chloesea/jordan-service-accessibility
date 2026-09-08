@@ -1,0 +1,129 @@
+site_id,governorate,latitude,longitude,site_type,operational
+0,Amman,32.473715,36.065778,Government Health Centre,True
+1,Amman,31.931779,35.845455,Existing Clinic,False
+2,Amman,31.779772,36.4248,NGO Facility,False
+3,Amman,31.965635,36.119724,Government Health Centre,True
+4,Amman,31.809142,36.009367,Community Centre,True
+5,Amman,32.433535,36.261655,Government Health Centre,True
+6,Amman,32.03662,35.934182,Existing Clinic,False
+7,Amman,32.074385,36.304267,Government Health Centre,False
+8,Amman,32.27819,36.356847,Community Centre,True
+9,Amman,32.011706,35.344269,Government Health Centre,False
+10,Amman,32.41168,35.699905,Community Centre,True
+11,Amman,31.483734,36.114899,NGO Facility,False
+12,Amman,31.46241,35.91834,Existing Clinic,True
+13,Amman,31.459381,35.823479,NGO Facility,True
+14,Amman,32.345024,36.008696,Community Centre,True
+15,Amman,31.958188,36.039155,Existing Clinic,True
+16,Amman,31.310255,35.739271,Government Health Centre,True
+17,Amman,31.837691,36.082865,Government Health Centre,True
+18,Amman,31.719472,35.964641,Government Health Centre,True
+19,Amman,31.935082,35.753078,School (Convertible),True
+20,Amman,31.830689,35.886639,Community Centre,True
+21,Amman,31.513161,36.123736,Community Centre,True
+22,Amman,31.767985,35.839934,Existing Clinic,False
+23,Amman,32.334352,36.128779,Government Health Centre,True
+24,Amman,31.679925,35.138371,Existing Clinic,True
+25,Amman,32.076933,35.850348,Government Health Centre,True
+26,Amman,32.002633,36.118919,Community Centre,True
+27,Amman,32.175819,35.797693,Existing Clinic,True
+28,Amman,31.929066,36.01758,Existing Clinic,True
+29,Amman,32.063445,35.963597,Existing Clinic,True
+30,Amman,32.301903,36.032629,Community Centre,False
+31,Amman,32.132376,35.986561,Existing Clinic,True
+32,Amman,31.717876,35.738457,NGO Facility,False
+33,Amman,31.670863,36.197284,Government Health Centre,False
+34,Amman,31.587955,35.871186,Existing Clinic,True
+35,Amman,31.867478,35.364572,Government Health Centre,False
+36,Amman,31.861473,35.827472,Government Health Centre,False
+37,Amman,32.353425,35.390634,Government Health Centre,True
+38,Amman,32.265958,35.849585,School (Convertible),True
+39,Amman,32.158481,35.932306,Community Centre,False
+40,Mafraq,31.969169,36.871086,NGO Facility,True
+41,Mafraq,32.762516,35.724561,Existing Clinic,False
+42,Mafraq,32.545167,35.931224,Existing Clinic,True
+43,Mafraq,31.832625,35.842894,Community Centre,False
+44,Mafraq,32.802065,36.621294,NGO Facility,True
+45,Mafraq,32.242658,36.841203,School (Convertible),True
+46,Mafraq,32.73235,35.843579,Community Centre,True
+47,Mafraq,32.896778,36.032774,Government Health Centre,True
+48,Mafraq,32.260182,35.32342,Government Health Centre,True
+49,Mafraq,32.1361,36.142807,Existing Clinic,False
+50,Mafraq,32.44731,35.694845,Existing Clinic,True
+51,Mafraq,32.092732,36.981277,Community Centre,True
+52,Mafraq,32.706624,36.80161,Government Health Centre,True
+53,Mafraq,32.323687,36.364995,Community Centre,False
+54,Mafraq,32.553121,36.972933,Existing Clinic,False
+55,Mafraq,31.82627,34.977134,Community Centre,False
+56,Mafraq,32.167674,36.32085,School (Convertible),True
+57,Mafraq,32.371978,35.857813,Community Centre,False
+58,Mafraq,32.521722,35.98381,Existing Clinic,True
+59,Mafraq,32.347062,36.431319,Government Health Centre,True
+60,Mafraq,32.195557,36.57811,Government Health Centre,True
+61,Mafraq,32.678068,35.874153,Community Centre,True
+62,Zarqa,31.998721,35.907112,NGO Facility,True
+63,Zarqa,32.071379,36.145205,Government Health Centre,False
+64,Zarqa,32.350251,36.023682,NGO Facility,True
+65,Zarqa,32.115387,35.992577,Government Health Centre,True
+66,Zarqa,31.99955,36.155022,Community Centre,True
+67,Zarqa,32.009056,36.075996,Existing Clinic,True
+68,Zarqa,32.133357,36.137084,Community Centre,True
+69,Zarqa,31.7076,35.995071,School (Convertible),False
+70,Zarqa,32.240687,35.795024,NGO Facility,False
+71,Zarqa,31.612632,36.194611,Government Health Centre,False
+72,Zarqa,32.11008,35.883931,Government Health Centre,True
+73,Zarqa,32.089712,35.970679,Government Health Centre,True
+74,Zarqa,32.148392,35.553985,Government Health Centre,True
+75,Zarqa,32.03358,35.987185,NGO Facility,False
+76,Zarqa,32.19487,35.740104,NGO Facility,True
+77,Zarqa,32.07976,36.192209,Government Health Centre,True
+78,Zarqa,32.356867,35.99771,Existing Clinic,False
+79,Zarqa,32.122442,35.750478,Community Centre,True
+80,Zarqa,32.071949,36.308182,Existing Clinic,True
+81,Zarqa,32.358729,36.166285,Community Centre,False
+82,Zarqa,31.832455,36.341292,Existing Clinic,True
+83,Zarqa,31.833656,35.867241,Community Centre,False
+84,Zarqa,32.295151,36.073171,Existing Clinic,True
+85,Zarqa,31.982546,36.218455,Government Health Centre,True
+86,Zarqa,32.097937,36.498494,Community Centre,False
+87,Irbid,32.756689,35.896558,Government Health Centre,True
+88,Irbid,32.59933,36.078833,Existing Clinic,True
+89,Irbid,32.538451,35.653803,Community Centre,False
+90,Irbid,32.697629,35.785521,NGO Facility,True
+91,Irbid,32.609998,35.408987,Existing Clinic,True
+92,Irbid,32.53089,35.734255,Community Centre,True
+93,Irbid,32.177524,35.827617,Government Health Centre,True
+94,Irbid,32.542861,35.930438,Community Centre,True
+95,Irbid,32.772404,36.065055,Existing Clinic,True
+96,Irbid,32.470023,35.891037,Existing Clinic,False
+97,Irbid,32.65071,35.754902,Government Health Centre,False
+98,Irbid,32.278081,35.803929,Government Health Centre,False
+99,Irbid,32.781236,35.512496,Community Centre,True
+100,Irbid,32.37147,35.674852,Government Health Centre,True
+101,Irbid,32.373439,36.005458,Community Centre,True
+102,Irbid,32.437785,36.011762,Government Health Centre,True
+103,Irbid,32.563895,35.464199,Existing Clinic,False
+104,Irbid,32.479059,36.072309,Existing Clinic,True
+105,Irbid,32.58449,35.775622,Government Health Centre,True
+106,Irbid,32.783793,35.612054,Existing Clinic,True
+107,Irbid,32.444235,36.049018,Community Centre,False
+108,Irbid,32.683015,35.595034,Existing Clinic,False
+109,Irbid,32.644058,35.707329,Existing Clinic,True
+110,Irbid,32.169744,35.779866,Existing Clinic,False
+111,Irbid,32.91994,36.076549,Community Centre,True
+112,Irbid,32.546742,35.500339,Community Centre,True
+113,Azraq,31.494243,36.838103,Government Health Centre,True
+114,Azraq,31.909116,36.997178,Government Health Centre,False
+115,Azraq,31.940945,36.988692,Government Health Centre,True
+116,Azraq,31.887422,37.111324,Existing Clinic,True
+117,Azraq,31.751043,36.834513,Existing Clinic,True
+118,Azraq,31.544222,36.696842,Community Centre,True
+119,Azraq,32.009456,36.980549,Government Health Centre,True
+120,Azraq,31.437218,37.312813,Government Health Centre,True
+121,Azraq,31.867112,36.868733,Existing Clinic,True
+122,Azraq,31.73713,36.730562,Government Health Centre,True
+123,Azraq,31.865192,36.966101,School (Convertible),False
+124,Azraq,31.895538,36.700011,Government Health Centre,True
+125,Azraq,31.687286,36.59732,NGO Facility,True
+126,Azraq,32.02401,37.051184,School (Convertible),False
+127,Azraq,31.923242,37.081919,Existing Clinic,True
