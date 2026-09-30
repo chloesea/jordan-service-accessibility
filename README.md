@@ -1,5 +1,15 @@
 # Service Accessibility Optimization for Refugee and Host Communities in Jordan
 
+An Equity-Weighted Dual-Community Framework | IEEE CIS AI Research Challenge 2026 | Team The Incredibles
+
+| | |
+|---|---|
+| **Paper** | [Read the final paper (PDF)](paper/IEEE_Final_Paper_Noor_Alyazouri.pdf) |
+| **Code** | [Notebooks](notebooks/), [data](data/), [results](outputs/) |
+
+---
+# Service Accessibility Optimization for Refugee and Host Communities in Jordan
+
 **IEEE CIS AI Research Challenge 2026 — Phase 2 Final Submission**  
 **Track:** AI for Social Good / Humanitarian Systems  
 **Team:** The Incredibles  
