@@ -4,7 +4,7 @@ An Equity-Weighted Dual-Community Framework | IEEE CIS AI Research Challenge 202
 
 | | |
 |---|---|
-| **Paper** | [Read the final paper (PDF)](IEEE_Final_Paper_Noor_Alyazouri.pdf) |
+| **Paper** | [Read the final paper (PDF)](IEEE_Final_Paper_Nahla_Bader_Noor_Alyazouri.pdf) |
 | **Code** | [Notebooks](notebooks/), [data](data/), [results](outputs/) |
 
 ---
